@@ -47,17 +47,7 @@ public class Programa {
             return base * altura;
         }
         
-        
-        
-        // perimetro = 2  * (lado + altura)
-        public static double calcularPerimetro(double base, double altura){
-            return 2 * (base + altura);
-        }
-
-
-}
-
-
+    }
 
 
 
